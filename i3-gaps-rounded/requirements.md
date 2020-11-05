@@ -11,6 +11,7 @@
 **Display:**
 
 - brightnessctl
+- spectacle(for screenshot)
 
 **Audio:**
 
@@ -19,10 +20,11 @@
 
 **Notify:**
 
-- ...
+- dunst
 
 **Bar:**
 
+-  i3bar
 -  polybar(?)
 - i3blocks(?)
 
